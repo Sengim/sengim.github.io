@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sengim Karayalcin;s Homepage"
+title                    : "Sengim Karayalcin's Homepage"
 title_separator          : "-"
 name                     : &name "Sengim Karayalcin"
 description              : &description "personal description"
@@ -23,10 +23,10 @@ repository               : "Sengim/sengim.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sengim"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Rotterdam, the Netherlands"
+  name             : "Sengim Karayalcin"
+  pronouns         : # example: "she/her"
+  bio              : "PhD Student"
+  location         : "Leiden, the Netherlands"
   employer         : "Leiden University"
   uri              : # URL
   email            : "none@example.org" 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

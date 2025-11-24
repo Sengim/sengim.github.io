@@ -1,6 +1,7 @@
 ---
 title: "LD-PA: Distilling Univariate Leakage for Deep Learning-Based Profiling Attacks"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-LD-PA-Distilling-Univariate-Leakage-for-Deep-Learning-Based-Profiling-Attacks
 date: 2024-01-01
 venue: 'IEEE Transactions on Information Forensics and Security'

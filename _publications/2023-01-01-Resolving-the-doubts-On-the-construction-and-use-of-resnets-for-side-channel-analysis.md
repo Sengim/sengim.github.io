@@ -1,6 +1,7 @@
 ---
 title: "Resolving the doubts: On the construction and use of resnets for side-channel analysis"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Resolving-the-doubts-On-the-construction-and-use-of-resnets-for-side-channel-analysis
 date: 2023-01-01
 venue: 'Mathematics'
